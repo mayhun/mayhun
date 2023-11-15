@@ -8,6 +8,7 @@
     <!-- Database -->
     <p><strong>Database</strong></p>
     <div>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
     </div>
     <!-- Server -->
