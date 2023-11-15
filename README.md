@@ -1,4 +1,4 @@
-## 🔨 Once I've used 🔨
+## 🔨 Tech stack 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
