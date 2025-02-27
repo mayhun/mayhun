@@ -36,7 +36,3 @@ NAS Docker 기반의 **GitLab 서버 구축**, 그리고 **Prometheus와 Grafana
 </p>
 
 ---
-
-## 📫 **연락처**
-- **이메일**: mayhun28@google.com
----
